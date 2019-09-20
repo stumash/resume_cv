@@ -1,3 +1,25 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "awesome-identity"
+baseURL = "https://stumash.github.io/"
+title = "Stuart Mashaal"
+
+[params.profile]
+  portrait = "/images/portrait-default.png"
+  firstname = "Stuart"
+  lastname = "Mashaal"
+  title = "Software Engineer"
+  bio = """ Hi. Welcome to my little webiste. I'm a software engineer and computer language enthusiast who's always
+  learning new tools. I love neovim and tmux and fish-shell.
+  """
+
+[params.contacts]
+  github = "stumash"
+  linkedin = "stuart-mashaal"
+  stackoverflow = "4485898"
+
+[params.actions.CV]
+    name = "CV"
+    url = "https://stumash/github.io/"
+
+## Footer Configurations
+[params.footer]
+  poweredBy = true
