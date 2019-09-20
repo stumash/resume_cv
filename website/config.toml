@@ -1,3 +1,4 @@
+publishDir = "../docs"
 theme = "awesome-identity"
 baseURL = "https://stumash.github.io/"
 title = "Stuart Mashaal"

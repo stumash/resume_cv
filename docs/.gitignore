@@ -1,8 +1,0 @@
-# config.toml # don't ignore this
-content/
-data/
-layouts/
-# public # don't ignore this
-resources/
-static/
-themes/
