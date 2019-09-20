@@ -19,7 +19,7 @@ title = "Stuart Mashaal"
 
 [params.actions.CV]
     name = "CV"
-    url = "https://stumash/github.io/"
+    url = "https://stumash/github.io/resume_cv/resume_cv.pdf"
 
 ## Footer Configurations
 [params.footer]
