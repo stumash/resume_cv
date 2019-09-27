@@ -4,7 +4,7 @@ baseURL = "https://stumash.github.io/"
 title = "Stuart Mashaal"
 
 [params.profile]
-  portrait = "/images/portrait-default.png"
+  portrait = "/images/me.png"
   firstname = "Stuart"
   lastname = "Mashaal"
   title = "Software Engineer"
@@ -18,8 +18,8 @@ title = "Stuart Mashaal"
   stackoverflow = "4485898"
 
 [params.actions.CV]
-    name = "CV"
-    url = "https://stumash.github.io/resume_cv/resume_cv.pdf"
+  name = "CV"
+  url = "https://stumash.github.io/resume_cv/resume_cv.pdf"
 
 ## Footer Configurations
 [params.footer]
