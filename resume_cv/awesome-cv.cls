@@ -125,6 +125,8 @@
 \definecolor{darkgray}{HTML}{333333}
 \definecolor{gray}{HTML}{5D5D5D}
 \definecolor{lightgray}{HTML}{999999}
+\definecolor{darkblue}{HTML}{103D89}
+\definecolor{darkred}{HTML}{CC0000}
 % Basic colors
 \definecolor{green}{HTML}{C2E15F}
 \definecolor{orange}{HTML}{FDA333}
